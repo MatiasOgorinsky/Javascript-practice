@@ -1,0 +1,19 @@
+body {
+  font-family: "Open sans";
+}
+.result-style {
+  font-style: normal;
+  font-weight: bold;
+  margin-left: 10px;
+  text-decoration-line: underline;
+  color: #373a3c;
+}
+.vanish-spinner {
+  display: none;
+}
+.vanish-result {
+  display: none;
+}
+ul {
+  list-style-type: none;
+}
